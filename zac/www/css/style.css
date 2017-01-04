@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+.top-space{
+    margin-top: 40px;
+}
+.button-small {
+    padding: 2px 13px 0px;
+    min-width: 130px;
+    min-height: 35px;
+    font-size: 16px;
+    line-height: 10px;
+}
+.btn-align{
+    margin-left: 25%;
+}
