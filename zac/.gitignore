@@ -4,3 +4,7 @@
 node_modules/
 platforms/
 plugins/
+WWW/lib
+WWW/zac/img/
+hooks/
+WWW/zac/scss/
